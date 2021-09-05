@@ -1,0 +1,11 @@
+.title{text-align: center;margin: 20px auto;}
+.red{color: red;}
+img.img-cover{
+  HEIGHT: 300px;
+    object-fit: contain;
+    width: 100%;
+    background: #77b3d5;
+}
+.App{
+  text-align: center;
+}
